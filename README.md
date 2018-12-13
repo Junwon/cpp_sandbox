@@ -29,7 +29,9 @@ Similarly, you can create and also switch branches by typing:
 
 Make sure you always do work on a branch other than `master`.
 
-You can always switch branches with `git checkout <some other branc>`.
+You can always switch branches with `git checkout <some other branch>`.
+
+If you are done with a branch and don't wish to use it anymore, you can delete the branch with `git branch -D <the branch you want to delete>`.
 
 ### Workflow
 
