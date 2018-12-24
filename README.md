@@ -46,3 +46,5 @@ Your workflow should be something like this:
 7. When you think you are done, push your working branch with `git push`.
 
 Note: When working with other people, be sure to run `git pull` to get the latest version of the repo.
+
+<!--comment-->
